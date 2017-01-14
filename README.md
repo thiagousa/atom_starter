@@ -5,5 +5,5 @@ Quickly get the Atom text editor up and running with some of my favorite package
 ##Install these packages: 
 
 ```
-$ apm install file-icons autocomplete-plus minimap linter atom-beautify color-picker atom-typescript docblockr linter linter-jshint language-babel terminal-panel
+$ apm install file-icons autocomplete-plus minimap linter atom-beautify color-picker atom-typescript docblockr linter linter-jshint language-babel angularjs
 ```
